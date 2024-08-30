@@ -16,3 +16,17 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.imgsize{
+    width: 200px;
+    height: 200px;
+}
+
+.cardproduct{
+    text-align: center;
+}
+
+.cardproduct:hover{
+    background-color:lightgray;
+    cursor:pointer;
+}
